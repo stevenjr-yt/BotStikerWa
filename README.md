@@ -1,4 +1,4 @@
 # BotStikerWa
-aa
+a
 a
 a
