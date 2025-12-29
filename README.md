@@ -1,5 +1,4 @@
 # BotStikerWa
-
 a
 a
 a
