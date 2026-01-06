@@ -1,5 +1,5 @@
 # BotStikerWa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 a
 a
 a
